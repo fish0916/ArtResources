@@ -1,0 +1,9 @@
+/EffectRes/Logs
+/EffectRes/Temp
+/EffectRes/Library
+/EffectRes/UserSettings
+/EffectRes/obj
+/EffectRes/*.sln
+/EffectRes/*.csproj
+/EffectRes/*.vsconfig
+/EffectRes/.vs
